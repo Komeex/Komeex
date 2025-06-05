@@ -45,21 +45,7 @@ const developer = {
 
 </div>
 
----
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Komeex&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Komeex&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF)
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Komeex&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF)
-  
-</div>
-
----
 
 ## 🎯 My Philosophy
 
@@ -77,23 +63,13 @@ const myLife = {
 console.log(myLife.getMotivation());
 ```
 
----
-
-## 🌟 Current Projects & Learning
-
-- 🔭 Working on **Next.js applications**
-- 🌱 Learning **advanced React patterns**
-- 👯 Looking to collaborate on **open source projects**
-- ⚡ Fun fact: **I practice archery in my free time!** 🏹
-
----
 
 ## 📫 Connect With Me
 
 <div align="center">
   
   [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Komeex)
-  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/your_username)
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([https://instagram.com/your_username](https://www.instagram.com/kommex_/))
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
   
 </div>
@@ -101,12 +77,6 @@ console.log(myLife.getMotivation());
 ---
 
 <div align="center">
-  
-  ### 👀 Profile Views
-  [![Visit Count](https://visitcount.itsvg.in/api?id=Komeex&icon=2&color=6)](https://visitcount.itsvg.in)
-  
-  ---
-  
   ⭐ **If you like my work, give it a star!** ⭐
   
   ![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
