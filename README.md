@@ -76,9 +76,7 @@ console.log(myLife.getMotivation());
 
 ---
 
-<div align="center">
-  ⭐ **If you like my work, give it a star!** ⭐
-  
+<div align="center">  
 ![Wave](https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:0099CC&height=120&section=footer)
   
 </div>
